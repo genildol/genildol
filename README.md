@@ -12,8 +12,6 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsmicros/)
 
-## Servidor Windows | Rede de Computadores | Antivìrus | 
-
 ## Se um homem não sabe para qual porto navega, nenhum vento lhe é favorável
 
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
