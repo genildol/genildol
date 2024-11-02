@@ -8,8 +8,6 @@
 
 [![Gmail badge](https://img.shields.io/badge/gmail-red?logo=gmail&style=for-the-badge&logoColor=white)](mailto:jgmicroshs@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genildo-souza-83b261104/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gsmicros/)
 
-## Se um homem não sabe para qual porto navega, nenhum vento lhe é favorável
-
 <code><img title="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"/></code>
 <code><img title="HTML5" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"/></code>
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
