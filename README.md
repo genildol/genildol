@@ -13,6 +13,7 @@
 <code><img title="CSS3" width="26px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"/></code>
 <code><img title="SQL" width="26px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/></code>
 <code><img title="Composer" width="26px" src="https://cdn.worldvectorlogo.com/logos/composer.svg"/></code>
+<code><img title="NodeJS" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/></code>
 
 
 ## Linguagens de Marcação e Estilo
